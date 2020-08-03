@@ -1,0 +1,7 @@
+[package]
+name = "def"
+version = "0.1.0"
+authors = ["wzjsun <530739162@qq.com>"]
+
+[dependencies]
+pi_vm = { path = "../pi_vm"}
